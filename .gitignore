@@ -1,0 +1,4 @@
+hello
+*.raw
+*.err*
+*.out*
